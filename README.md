@@ -5,17 +5,17 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 ## Reports:
 
 1. Active Salud y Vida patients
-2. Recently added Salud y Vida patients (Last two weeks)
-3. Recently ended Salud y Vida patients (Last two weeks)
+2. Recently added Salud y Vida patients
+3. Recently ended Salud y Vida patients
 
 ## Plan:
 
 **TimeToDateSuClinicaSyV**
 
 *Views include:*
-Summary
+<-thisone->Summary
 Last 1 week
-Last 2 weeks
+<-thisone->Last 2 weeks
 Last 3 weeks
 Last month
 Last 2 months
@@ -32,21 +32,21 @@ Last 3 years 6 months
 Last 4 years
 
 *For Summary view:*
-Active total Salud y Vida patients
-Inactive total Salud y Vida patients
-Active total Su Clinica patients
-Active Su Clinica and Salud y Vida patients
-Inactive Su Clincia and Salud y Vida patients
-SyV Su Clinica eligible
-% of eligible Su Clinica in SyV
+<-thisone->Active total Salud y Vida patients
+<-thisone->Inactive total Salud y Vida patients
+<-thisone->Active total Su Clinica patients
+<-thisone->Active Su Clinica and Active Salud y Vida patients
+<-thisone->Active Su Clincia and Inactive Salud y Vida patients
+<-thisone->Su Clinica patients eligible for Salud y Vida
+<-thisone->% of eligible Su Clinica patients in SyV
 
 *For all other views:*
-Salud y Vida added during time period specified
-Salud y Vida removed during time period specified
-Salud y Vida and Su Clincia added during time period specified
-Salud y Vida and Su Clinica removed during time period specified
+<-thisone->Salud y Vida enrolled during time period specified
+<-thisone->Salud y Vida discharged during time period specified
+<-thisone->Salud y Vida participants added during time period specified, who are also Su Clinica patients
+<-thisone->Salud y Vida participants added during time period specified, who are also Su Clinica patients
 
-**QuarterSummarySuClinicaSyV:**
+**YearlyQuarterlySummarySuClinicaSyV:**
 
 *Views include:*
 2014 Q1234
@@ -90,9 +90,41 @@ SyV Su Clinica Removed
 
 ## Variables available:
 
+**Labs**
 | Code | Name | Value | Facility |
 | ---- | ---- | ----- | -------- | 
 | LOINC:4548-4 | Hemoglobin A1c/Hemoglobin.total in Blood | Yes | |
 | WC_LAB:123 | HbA1C | Yes | |
 | RGV_Chronicles:RGV001 | Name: patient_lab_hgba1c | Yes | Salud y Vida |
 | CPT:83036 | Hemoglobin; glycosylated (A1C) | No | |
+
+**Salud y Vida Specific**
+| Initiative Name | Code | Value |
+| --------------- | ---- | ----- |
+| syv: mhp | 142563996 | Start Date |
+| syv: mhp | 142563996 | End Date |
+| syv: pjd | 142563995 | Start Date |
+| syv: pjd | 142563995 | End Date |
+| syv: sph brownsville | 142563991 | Start Date |
+| syv: sph brownsville | 142563991 | End Date |
+| syv: sph2 | 142563993 | Start Date |
+| syv: sph2 | 142563993 | End Date |
+
+| Survey Name | Question | Answer |
+| ----------- | -------- | ------ |
+| SYV: Patient Status | 1. Patient status: | Active |
+| SYV: Patient Status | 1. Patient status: | **Completed** |
+| SYV: Patient Status | 1. Patient status: | **Discharged** |
+| SYV: Patient Status | 1. Patient status: | Inactive |
+| SYV: Patient Status | 1. Patient status: | Referred |
+| SYV: Patient Status | 1. Patient status: | **Successfully Completed** |
+| SYV: Patient Status | 2. Date effective: | DATE |
+
+**Bold** = Completed program
+
+**Su Clincia Specific**
+| Interface Name | Domain Filter | Period |
+| -------------- | ------------- | ------ |
+| GE Centricity-CCDA-Rio Grande Valley HIE-Su Clinica | Demographics | January 2014 - December 2018 (4 OR criteria)|
+
+*Note:* Can use Interface filter to identify people who are new to Su Clinica in specified time ranges
