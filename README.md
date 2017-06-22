@@ -9,5 +9,5 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 3. Recently ended Salud y Vida patients (Last two weeks)
 
 ## Needs defining:
-Track all Su Clinica patients and their HbA1c
-Both Su Clincia and Salud y Vida HbA1c separately preferred
+1. Track all Su Clinica patients and their HbA1c
+2. Both Su Clincia and Salud y Vida HbA1c separately preferred
