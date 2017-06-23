@@ -39,12 +39,22 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Active Su Clincia and Inactive Salud y Vida patients
 * Su Clinica patients eligible for Salud y Vida
 * % of eligible Su Clinica patients in SyV
+* All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months
+* All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months
+* All Su Clinica patients with last HbA1c > 9 (HbA1c can come from Lab value or Salud y Vida)
+* All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (HbA1c can come from Lab value or Salud y Vida surveys)
+* All Su Clinica patients who are part of the Salud y Vida program who have not been prescribed diabetes medication
 
 *For all other views:*
 * Salud y Vida enrolled during time period specified
 * Salud y Vida discharged during time period specified
 * Salud y Vida participants added during time period specified, who are also Su Clinica patients
 * Salud y Vida participants added during time period specified, who are also Su Clinica patients
+* Salud y Vida patients who have visited Su Clinica in the time period
+* Salud y Vida patients who have not visited Su Clinica in the time period
+
+*Notes:*
+* Certain range of NDC numbers described what it is for (need to be diabetes medication)
 
 **YearlyQuarterlySummarySuClinicaSyV:**
 
@@ -79,14 +89,37 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * 2017 Q4
 
 *For each view:*
-* SyV Added
-* SyV Su Clinica Added
-* SyV Removed
-* SyV Su Clinica Removed
+* SyV Added in date interval
+* SyV Su Clinica Added in date interval
+* SyV Removed in date interval
+* SyV Su Clinica Removed in date interval
+* SyV patients who visited Su Clinica in date interval
+* SyV patients who did not visit Su Clinica in date interval
 
-## Needs defining:
-4. Track all Su Clinica patients and their HbA1c
-5. Both Su Clincia and Salud y Vida HbA1c separately preferred
+## Salud y Vida Program Progress
+
+*Views Include*
+* 2015 - Active
+* 2015 - Inactive
+* 2016 - Active
+* 2016 - Inactive
+* 2017 - Active
+* 2017 - Inactive
+
+*For each view:*
+* Enrollment
+* M03
+* M06
+* M09
+* M12
+* M15
+* M18
+* M21
+* M24
+
+*Notes:*
+* In Active, make sure to only include Active Salud y Vida patients
+* In Inactive, make sure to only include Inactive Salud y Vida patients
 
 ## Variables available:
 
@@ -129,25 +162,15 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 
 *Note:* Can use Interface filter to identify people who are new to Su Clinica in specified time ranges
 
-## Data gaps:
-* Anyone with diagnosis of diabetes and no HbA1c in 6 months
-* Anyone in Salud y Vida program
+## Reports Not Scoped:
+4. Track all Su Clinica patients and their HbA1c
+5. Both Su Clincia and Salud y Vida HbA1c separately preferred
 * Baseline HbA1c to the latest HbA1c to see if program is working
-.* Going to have to calculate the improvement
-.* Percent improvement
-.* Going to have to drill down into each individual
-* What is their current progress in the program?
-* HbA1c > 9 -> Last value
+⋅* Going to have to calculate the improvement
+⋅* Percent improvement
+⋅* Going to have to drill down into each individual
 * Create dashboards they present
-* Need to identify if they are coming to Su Clinica -> For Salud y Vida patients
-.* All the way to January
-.* How fast we can get this done - 90 days
-Lower Priority->Look if patient is prescribed diabetes medication (insulin? metformin?) - NDC number (certain range says what it is for)
-
-For us to be able to use the data in a meaningful way - so they can work with patients before the end date
 
 **To-Do**
-Access requests for Wellcentive
-Meeting next week
-
-Active -> Actually active NOT completed, etc.
+* Access requests for Wellcentive
+* Meeting next week
