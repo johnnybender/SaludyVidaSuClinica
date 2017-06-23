@@ -13,23 +13,23 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 **TimeToDateSuClinicaSyV**
 
 *Views include:*
-Summary
-Last 1 week
-Last 2 weeks
-Last 3 weeks
-Last month
-Last 2 months
-Last 4 months
-Last 6 months
-Last 8 months
-Last 10 months
-Last 1 year
-Last 1 year 6 months
-Last 2 years
-Last 2 years 6 months
-Last 3 years
-Last 3 years 6 months
-Last 4 years
+* Summary
+* Last 1 week
+* Last 2 weeks
+* Last 3 weeks
+* Last month
+* Last 2 months
+* Last 4 months
+* Last 6 months
+* Last 8 months
+* Last 10 months
+* Last 1 year
+* Last 1 year 6 months
+* Last 2 years
+* Last 2 years 6 months
+* Last 3 years
+* Last 3 years 6 months
+* Last 4 years
 
 *For Summary view:*
 Active total Salud y Vida patients
