@@ -128,3 +128,8 @@ SyV Su Clinica Removed
 | GE Centricity-CCDA-Rio Grande Valley HIE-Su Clinica | Demographics | January 2014 - December 2018 (4 OR criteria)|
 
 *Note:* Can use Interface filter to identify people who are new to Su Clinica in specified time ranges
+
+
+## Data gaps:
+Anyone with diagnosis of diabetes and no HbA1c in 6 months
+HbA1c > 9 -> Last value
