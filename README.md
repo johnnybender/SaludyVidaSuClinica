@@ -32,57 +32,57 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Last 4 years
 
 *For Summary view:*
-Active total Salud y Vida patients
-Inactive total Salud y Vida patients
-Active total Su Clinica patients
-Active Su Clinica and Active Salud y Vida patients
-Active Su Clincia and Inactive Salud y Vida patients
-Su Clinica patients eligible for Salud y Vida
-% of eligible Su Clinica patients in SyV
+* Active total Salud y Vida patients
+* Inactive total Salud y Vida patients
+* Active total Su Clinica patients
+* Active Su Clinica and Active Salud y Vida patients
+* Active Su Clincia and Inactive Salud y Vida patients
+* Su Clinica patients eligible for Salud y Vida
+* % of eligible Su Clinica patients in SyV
 
 *For all other views:*
-Salud y Vida enrolled during time period specified
-Salud y Vida discharged during time period specified
-Salud y Vida participants added during time period specified, who are also Su Clinica patients
-Salud y Vida participants added during time period specified, who are also Su Clinica patients
+* Salud y Vida enrolled during time period specified
+* Salud y Vida discharged during time period specified
+* Salud y Vida participants added during time period specified, who are also Su Clinica patients
+* Salud y Vida participants added during time period specified, who are also Su Clinica patients
 
 **YearlyQuarterlySummarySuClinicaSyV:**
 
 *Views include:*
-2014 Q1234
-2014 Q12
-2014 Q34
-2014 Q1
-2014 Q2
-2014 Q3
-2014 Q4
-2015 Q1234
-2015 Q12
-2015 Q34
-2015 Q1
-2015 Q2
-2015 Q3
-2015 Q4
-2016 Q1234
-2016 Q12
-2016 Q34
-2016 Q1
-2016 Q2
-2016 Q3
-2016 Q4
-2017 Q1234
-2017 Q12
-2017 Q34
-2017 Q1
-2017 Q2
-2017 Q3
-2017 Q4
+* 2014 Q1234
+* 2014 Q12
+* 2014 Q34
+* 2014 Q1
+* 2014 Q2
+* 2014 Q3
+* 2014 Q4
+* 2015 Q1234
+* 2015 Q12
+* 2015 Q34
+* 2015 Q1
+* 2015 Q2
+* 2015 Q3
+* 2015 Q4
+* 2016 Q1234
+* 2016 Q12
+* 2016 Q34
+* 2016 Q1
+* 2016 Q2
+* 2016 Q3
+* 2016 Q4
+* 2017 Q1234
+* 2017 Q12
+* 2017 Q34
+* 2017 Q1
+* 2017 Q2
+* 2017 Q3
+* 2017 Q4
 
 *For each view:*
-SyV Added
-SyV Su Clinica Added
-SyV Removed
-SyV Su Clinica Removed
+* SyV Added
+* SyV Su Clinica Added
+* SyV Removed
+* SyV Su Clinica Removed
 
 ## Needs defining:
 4. Track all Su Clinica patients and their HbA1c
@@ -130,18 +130,18 @@ SyV Su Clinica Removed
 *Note:* Can use Interface filter to identify people who are new to Su Clinica in specified time ranges
 
 ## Data gaps:
-Anyone with diagnosis of diabetes and no HbA1c in 6 months
-Anyone in Salud y Vida program
-Baseline HbA1c to the latest HbA1c to see if program is working
-  Going to have to calculate the improvement
-  Percent improvement
-  Going to have to drill down into each individual
-What is their current progress in the program?
-HbA1c > 9 -> Last value
-Create dashboards they present
-Need to identify if they are coming to Su Clinica -> For Salud y Vida patients
-   All the way to January
-   How fast we can get this done - 90 days
+* Anyone with diagnosis of diabetes and no HbA1c in 6 months
+* Anyone in Salud y Vida program
+* Baseline HbA1c to the latest HbA1c to see if program is working
+.* Going to have to calculate the improvement
+.* Percent improvement
+.* Going to have to drill down into each individual
+* What is their current progress in the program?
+* HbA1c > 9 -> Last value
+* Create dashboards they present
+* Need to identify if they are coming to Su Clinica -> For Salud y Vida patients
+.* All the way to January
+.* How fast we can get this done - 90 days
 Lower Priority->Look if patient is prescribed diabetes medication (insulin? metformin?) - NDC number (certain range says what it is for)
 
 For us to be able to use the data in a meaningful way - so they can work with patients before the end date
