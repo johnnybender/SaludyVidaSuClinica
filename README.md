@@ -13,9 +13,9 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 **TimeToDateSuClinicaSyV**
 
 *Views include:*
-<-thisone->Summary
+Summary
 Last 1 week
-<-thisone->Last 2 weeks
+Last 2 weeks
 Last 3 weeks
 Last month
 Last 2 months
@@ -32,19 +32,19 @@ Last 3 years 6 months
 Last 4 years
 
 *For Summary view:*
-<-thisone->Active total Salud y Vida patients
-<-thisone->Inactive total Salud y Vida patients
-<-thisone->Active total Su Clinica patients
-<-thisone->Active Su Clinica and Active Salud y Vida patients
-<-thisone->Active Su Clincia and Inactive Salud y Vida patients
-<-thisone->Su Clinica patients eligible for Salud y Vida
-<-thisone->% of eligible Su Clinica patients in SyV
+Active total Salud y Vida patients
+Inactive total Salud y Vida patients
+Active total Su Clinica patients
+Active Su Clinica and Active Salud y Vida patients
+Active Su Clincia and Inactive Salud y Vida patients
+Su Clinica patients eligible for Salud y Vida
+% of eligible Su Clinica patients in SyV
 
 *For all other views:*
-<-thisone->Salud y Vida enrolled during time period specified
-<-thisone->Salud y Vida discharged during time period specified
-<-thisone->Salud y Vida participants added during time period specified, who are also Su Clinica patients
-<-thisone->Salud y Vida participants added during time period specified, who are also Su Clinica patients
+Salud y Vida enrolled during time period specified
+Salud y Vida discharged during time period specified
+Salud y Vida participants added during time period specified, who are also Su Clinica patients
+Salud y Vida participants added during time period specified, who are also Su Clinica patients
 
 **YearlyQuarterlySummarySuClinicaSyV:**
 
