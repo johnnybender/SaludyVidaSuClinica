@@ -129,7 +129,25 @@ SyV Su Clinica Removed
 
 *Note:* Can use Interface filter to identify people who are new to Su Clinica in specified time ranges
 
-
 ## Data gaps:
 Anyone with diagnosis of diabetes and no HbA1c in 6 months
+Anyone in Salud y Vida program
+Baseline HbA1c to the latest HbA1c to see if program is working
+  Going to have to calculate the improvement
+  Percent improvement
+  Going to have to drill down into each individual
+What is their current progress in the program?
 HbA1c > 9 -> Last value
+Create dashboards they present
+Need to identify if they are coming to Su Clinica -> For Salud y Vida patients
+   All the way to January
+   How fast we can get this done - 90 days
+Lower Priority->Look if patient is prescribed diabetes medication (insulin? metformin?) - NDC number (certain range says what it is for)
+
+For us to be able to use the data in a meaningful way - so they can work with patients before the end date
+
+**To-Do**
+Access requests for Wellcentive
+Meeting next week
+
+Active -> Actually active NOT completed, etc.
