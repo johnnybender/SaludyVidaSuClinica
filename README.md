@@ -124,6 +124,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 ## Variables available:
 
 **Labs**
+
 | Code | Name | Value | Facility |
 | ---- | ---- | ----- | -------- | 
 | LOINC:4548-4 | Hemoglobin A1c/Hemoglobin.total in Blood | Yes | |
@@ -132,6 +133,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 | CPT:83036 | Hemoglobin; glycosylated (A1C) | No | |
 
 **Salud y Vida Specific**
+
 | Initiative Name | Code | Value |
 | --------------- | ---- | ----- |
 | syv: mhp | 142563996 | Start Date |
@@ -156,6 +158,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 **Bold** = Completed program
 
 **Su Clincia Specific**
+
 | Interface Name | Domain Filter | Period |
 | -------------- | ------------- | ------ |
 | GE Centricity-CCDA-Rio Grande Valley HIE-Su Clinica | Demographics | January 2014 - December 2018 (4 OR criteria)|
