@@ -49,7 +49,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Salud y Vida enrolled during time period specified
 * Salud y Vida discharged during time period specified
 * Salud y Vida participants added during time period specified, who are also Su Clinica patients
-* Salud y Vida participants added during time period specified, who are also Su Clinica patients
+* Salud y Vida participants removed during time period specified, who are also Su Clinica patients
 * Salud y Vida patients who have visited Su Clinica in the time period
 * Salud y Vida patients who have not visited Su Clinica in the time period
 
@@ -89,12 +89,12 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * 2017 Q4
 
 *For each view:*
-* SyV Added in date interval
-* SyV Su Clinica Added in date interval
-* SyV Removed in date interval
-* SyV Su Clinica Removed in date interval
-* SyV patients who visited Su Clinica in date interval
-* SyV patients who did not visit Su Clinica in date interval
+* Salud y Vida enrolled during time period specified
+* Salud y Vida discharged during time period specified
+* Salud y Vida participants added during time period specified, who are also Su Clinica patients
+* Salud y Vida participants removed during time period specified, who are also Su Clinica patients
+* Salud y Vida patients who have visited Su Clinica in the time period
+* Salud y Vida patients who have not visited Su Clinica in the time period
 
 ## Salud y Vida Program Progress
 
