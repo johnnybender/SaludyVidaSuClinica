@@ -31,7 +31,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Last 3 years 6 months
 * Last 4 years
 
-*For Summary view:*
+*For Summary view:* (Worked on by Edward Yao)
 * Active total Salud y Vida patients
 * Inactive total Salud y Vida patients
 * Active total Su Clinica patients
