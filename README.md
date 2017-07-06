@@ -45,6 +45,9 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (HbA1c can come from Lab value or Salud y Vida surveys)
 * All Su Clinica patients who are part of the Salud y Vida program who have not been prescribed diabetes medication
 
+*Notes:*
+* Make sure to put Su Clinica HbA1c and Salud y Vida HbA1c in columns side-by-side
+
 *For all other views:*
 * Salud y Vida enrolled during time period specified
 * Salud y Vida discharged during time period specified
