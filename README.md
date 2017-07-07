@@ -1,5 +1,7 @@
 # Salud y Vida Reports for Su Clinica Familiar
 
+Tracking spreadsheet: https://docs.google.com/spreadsheets/d/1oIV83j1o2GKYMuBiDcqhBNOR5_yad8xv6l1P8B_qhMQ/edit?usp=sharing
+
 Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Health Center in the Rio Grande Valley region of Texas.
 
 ## Reports:
