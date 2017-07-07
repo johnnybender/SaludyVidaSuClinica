@@ -46,7 +46,10 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * All Su Clinica patients who are part of the Salud y Vida program who have not been prescribed diabetes medication
 
 *Notes:*
-* Make sure to put Su Clinica HbA1c and Salud y Vida HbA1c in columns side-by-side
+* Three columns for HbA1c values:
+* 1: Su Clinica-only LOINC code
+* 2: Salud y Vida survey values
+* 3: WC Lab HbA1c value
 
 *For all other views:*
 * Salud y Vida enrolled during time period specified
