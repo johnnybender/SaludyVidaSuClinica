@@ -40,7 +40,6 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Active Su Clinica and Active Salud y Vida patients
 * Active Su Clincia and Inactive Salud y Vida patients
 * Su Clinica patients eligible for Salud y Vida
-* % of eligible Su Clinica patients in SyV
 * All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months
 * All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months
 * All Su Clinica patients with last HbA1c > 9 (HbA1c can come from Lab value or Salud y Vida)
