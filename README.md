@@ -186,13 +186,51 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * 2017 Q3
 * 2017 Q4
 
-*For each view:*
-* Salud y Vida enrolled during time period specified
-* Salud y Vida discharged during time period specified
-* Salud y Vida participants added during time period specified, who are also Su Clinica patients
-* Salud y Vida participants removed during time period specified, who are also Su Clinica patients
-* Salud y Vida patients who have visited Su Clinica in the time period
-* Salud y Vida patients who have not visited Su Clinica in the time period
+*View: 2014 Q1234*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during 01/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients removed during 01/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in 01/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in 01/01/2014 - 12/31/2014
+
+*View: 2014 Q12*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during 01/01/2014 - 06/30/2014
+* Salud y Vida participants, who are also Su Clinica patients removed during 01/01/2014 - 06/30/2014
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in 01/01/2014 - 06/30/2014
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in 01/01/2014 - 06/30/2014
+
+*View: 2014 Q34*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during 07/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients removed during 07/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in 07/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in 07/01/2014 - 12/31/2014
+
+*View: 2014 Q1*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during 01/01/2014 - 03/01/2014
+* Salud y Vida participants, who are also Su Clinica patients removed during 01/01/2014 - 03/01/2014
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in 01/01/2014 - 03/01/2014
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in 01/01/2014 - 03/01/2014
+
+*View: 2014 Q2*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during 04/01/2014 - 06/30/2014
+* Salud y Vida participants, who are also Su Clinica patients removed during 04/01/2014 - 06/30/2014
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in 04/01/2014 - 06/30/2014
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in 04/01/2014 - 06/30/2014
+
+*View: 2014 Q3*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during 07/01/2014 - 09/30/2014
+* Salud y Vida participants, who are also Su Clinica patients removed during 07/01/2014 - 09/30/2014
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in 07/01/2014 - 09/30/2014
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in 07/01/2014 - 09/30/2014
+
+*View: 2014 Q4*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during 10/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients removed during 10/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in 10/01/2014 - 12/31/2014
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in 10/01/2014 - 12/31/2014
+
+
+
+
 
 ## Su Clinica SYV Program Progress
 
