@@ -7,7 +7,8 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 ## Plan:
 
 **Su Clincia SYV Summary**
-*Views:*
+
+*Views Include:*
 * Summary
 * No HbA1c Last 6 Months
 * Last HbA1c > 9
@@ -39,7 +40,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 
 **Su Clinica SYV Time 2 Date**
 
-*Views include:*
+*Views Include:*
 * Last 1 week
 * Last 2 weeks
 * Last 3 weeks
@@ -67,7 +68,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 
 **Su Clinica SYV Yearly Quarterly:**
 
-*Views include:*
+*Views Include:*
 * 2014 Q1234
 * 2014 Q12
 * 2014 Q34
