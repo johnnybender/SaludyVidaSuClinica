@@ -6,6 +6,7 @@
 * Last HbA1c > 9
 
 **Views:**
+
 *Summary*
 * Active total Salud y Vida patients
 * Inactive total Salud y Vida patients
@@ -52,6 +53,7 @@
 * Last 4 years
 
 **Views:**
+
 *Last 1 week*
 * Salud y Vida participants, who are also Su Clinica patients added to SyV during last 1 week
 * Salud y Vida participants, who are also Su Clinica patients removed during last 1 week
@@ -181,6 +183,7 @@
 * 2017 Q4
 
 **Views:**
+
 *2014 Q1234*
 * Salud y Vida participants, who are also Su Clinica patients added to SyV during 01/01/2014 - 12/31/2014
 * Salud y Vida participants, who are also Su Clinica patients removed during 01/01/2014 - 12/31/2014
@@ -234,6 +237,7 @@
 * 2017 - Inactive
 
 **Views:**
+
 *2015 - Active*
 * Enrollment HbA1c completed in 2015 - Su Clincia & Active Salud y Vida patients (SYV Survey Lab)
 * M03 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
