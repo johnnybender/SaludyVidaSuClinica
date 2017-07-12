@@ -44,7 +44,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Last 1 week
 * Last 2 weeks
 * Last 3 weeks
-* Last month
+* Last 1 month
 * Last 2 months
 * Last 4 months
 * Last 6 months
@@ -58,13 +58,101 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Last 3 years 6 months
 * Last 4 years
 
-*For each view:*
-* Salud y Vida enrolled during time period specified
-* Salud y Vida discharged during time period specified
-* Salud y Vida participants added during time period specified, who are also Su Clinica patients
-* Salud y Vida participants removed during time period specified, who are also Su Clinica patients
-* Salud y Vida patients who have visited Su Clinica in the time period
-* Salud y Vida patients who have not visited Su Clinica in the time period
+*View: Last 1 week*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 1 week
+* Salud y Vida participants, who are also Su Clinica patients removed during last 1 week
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 1 week
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 1 week
+
+*View: Last 2 weeks*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 2 weeks
+* Salud y Vida participants, who are also Su Clinica patients removed during last 2 weeks
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 2 weeks
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 2 weeks
+
+*View: Last 3 weeks*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 3 weeks
+* Salud y Vida participants, who are also Su Clinica patients removed during last 3 weeks
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 3 weeks
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 3 weeks
+
+*View: Last 1 month*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 1 month
+* Salud y Vida participants, who are also Su Clinica patients removed during last 1 month
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 1 month
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 1 month
+
+*View: Last 2 months*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 2 months
+* Salud y Vida participants, who are also Su Clinica patients removed during last 2 months
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 2 months
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 2 months
+
+*View: Last 4 months*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 4 months
+* Salud y Vida participants, who are also Su Clinica patients removed during last 4 months
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 4 months
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 4 months
+
+*View: Last 6 months*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 6 months
+* Salud y Vida participants, who are also Su Clinica patients removed during last 6 months
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 6 months
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 6 months
+
+*View: Last 8 months*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 8 months
+* Salud y Vida participants, who are also Su Clinica patients removed during last 8 months
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 8 months
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 8 months
+
+*View: Last 10 months*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 10 months
+* Salud y Vida participants, who are also Su Clinica patients removed during last 10 months
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 10 months
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 10 months
+
+*View: Last 1 year*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 1 year
+* Salud y Vida participants, who are also Su Clinica patients removed during last 1 year
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 1 year
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 1 year
+
+*View: Last 1 year 6 months*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 1 year 6 months
+* Salud y Vida participants, who are also Su Clinica patients removed during last 1 year 6 months
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 1 year 6 months
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 1 year 6 months
+
+*View: Last 2 years*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 2 years
+* Salud y Vida participants, who are also Su Clinica patients removed during last 2 years
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 2 years
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 2 years
+
+*View: Last 2 years 6 months*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 2 years 6 months
+* Salud y Vida participants, who are also Su Clinica patients removed during last 2 years 6 months
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 2 years 6 months
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 2 years 6 months
+
+*View: Last 3 years*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 3 years
+* Salud y Vida participants, who are also Su Clinica patients removed during last 3 years
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 3 years
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 3 years
+
+*View: Last 3 years 6 months*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 3 years 6 months
+* Salud y Vida participants, who are also Su Clinica patients removed during last 3 years 6 months
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 3 years 6 months
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 3 years 6 months
+
+*View: Last 4 years*
+* Salud y Vida participants, who are also Su Clinica patients added to SyV during last 4 years
+* Salud y Vida participants, who are also Su Clinica patients removed during last 4 years
+* Salud y Vida participants, who are also Su Clinica patients who have visited Su Clinica in the last 4 years
+* Salud y Vida participants, who are also Su Clinica patients who have not visited Su Clinica in the last 4 years
 
 **Su Clinica SYV Yearly Quarterly:**
 
