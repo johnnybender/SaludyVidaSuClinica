@@ -4,13 +4,28 @@ Tracking spreadsheet: https://docs.google.com/spreadsheets/d/1oIV83j1o2GKYMuBiDc
 
 Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Health Center in the Rio Grande Valley region of Texas.
 
-## Reports:
-
-1. Active Salud y Vida patients
-2. Recently added Salud y Vida patients
-3. Recently ended Salud y Vida patients
-
 ## Plan:
+
+**Su Clincia SYV Summary**
+* Active total Salud y Vida patients
+* Inactive total Salud y Vida patients
+* Active total Su Clinica patients
+* Active Su Clinica and Active Salud y Vida patients
+* Active Su Clincia and Inactive Salud y Vida patients
+* Su Clinica patients eligible for Salud y Vida
+* All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (SC Lab)
+* All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (SYV Lab)
+* All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (All Lab)
+* All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (SC Lab)
+* All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (SYV Lab)
+* All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (All Lab)
+* All Su Clinica patients with last HbA1c > 9 (SC Lab)
+* All Su Clinica patients with last HbA1c > 9 (SYV Lab)
+* All Su Clinica patients with last HbA1c > 9 (All Lab)
+* All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (SC Lab)
+* All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (SYV Lab)
+* All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (All Lab)
+* All Su Clinica patients who are part of the Salud y Vida program who have not been prescribed diabetes medication
 
 **TimeToDateSuClinicaSyV**
 
@@ -32,19 +47,6 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Last 3 years
 * Last 3 years 6 months
 * Last 4 years
-
-*For Summary view:* (Worked on by Edward Yao)
-* Active total Salud y Vida patients
-* Inactive total Salud y Vida patients
-* Active total Su Clinica patients
-* Active Su Clinica and Active Salud y Vida patients
-* Active Su Clincia and Inactive Salud y Vida patients
-* Su Clinica patients eligible for Salud y Vida
-* All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months
-* All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months
-* All Su Clinica patients with last HbA1c > 9 (HbA1c can come from Lab value or Salud y Vida)
-* All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (HbA1c can come from Lab value or Salud y Vida surveys)
-* All Su Clinica patients who are part of the Salud y Vida program who have not been prescribed diabetes medication
 
 *Notes:*
 * Three columns for HbA1c values:
@@ -184,3 +186,9 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 **To-Do**
 * Access requests for Wellcentive
 * Meeting next week
+
+## Reports:
+
+1. Active Salud y Vida patients
+2. Recently added Salud y Vida patients
+3. Recently ended Salud y Vida patients
