@@ -7,30 +7,39 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 ## Plan:
 
 **Su Clincia SYV Summary**
+*Views:*
+* Summary
+* No HbA1c Last 6 Months
+* Last HbA1c > 9
+
+*View: Summary*
 * Active total Salud y Vida patients
 * Inactive total Salud y Vida patients
 * Active total Su Clinica patients
 * Active Su Clinica and Active Salud y Vida patients
 * Active Su Clincia and Inactive Salud y Vida patients
 * Su Clinica patients eligible for Salud y Vida
+* All Su Clinica patients who are part of the Salud y Vida program who have not been prescribed diabetes medication
+
+*View: No HbA1c Last 6 Months*
 * All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (SC Lab)
 * All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (SYV Lab)
 * All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (All Lab)
 * All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (SC Lab)
 * All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (SYV Lab)
 * All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (All Lab)
+
+*View: Last HbA1c > 9*
 * All Su Clinica patients with last HbA1c > 9 (SC Lab)
 * All Su Clinica patients with last HbA1c > 9 (SYV Lab)
 * All Su Clinica patients with last HbA1c > 9 (All Lab)
 * All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (SC Lab)
 * All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (SYV Lab)
 * All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (All Lab)
-* All Su Clinica patients who are part of the Salud y Vida program who have not been prescribed diabetes medication
 
-**TimeToDateSuClinicaSyV**
+**Su Clinica SYV Time 2 Date**
 
 *Views include:*
-* Summary
 * Last 1 week
 * Last 2 weeks
 * Last 3 weeks
@@ -48,13 +57,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Last 3 years 6 months
 * Last 4 years
 
-*Notes:*
-* Three columns for HbA1c values:
-* 1: Su Clinica-only LOINC code
-* 2: Salud y Vida survey values
-* 3: WC Lab HbA1c value
-
-*For all other views:*
+*For each view:*
 * Salud y Vida enrolled during time period specified
 * Salud y Vida discharged during time period specified
 * Salud y Vida participants added during time period specified, who are also Su Clinica patients
@@ -62,10 +65,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Salud y Vida patients who have visited Su Clinica in the time period
 * Salud y Vida patients who have not visited Su Clinica in the time period
 
-*Notes:*
-* Certain range of NDC numbers described what it is for (need to be diabetes medication)
-
-**YearlyQuarterlySummarySuClinicaSyV:**
+**Su Clinica SYV Yearly Quarterly:**
 
 *Views include:*
 * 2014 Q1234
@@ -105,7 +105,7 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * Salud y Vida patients who have visited Su Clinica in the time period
 * Salud y Vida patients who have not visited Su Clinica in the time period
 
-## Salud y Vida Program Progress
+## Su Clinica SYV Program Progress
 
 *Views Include*
 * 2015 - Active
@@ -115,20 +115,71 @@ Salud y Vida specific reports for Su Clinica Familiar, a Federally-Qualified Hea
 * 2017 - Active
 * 2017 - Inactive
 
-*For each view:*
-* Enrollment
-* M03
-* M06
-* M09
-* M12
-* M15
-* M18
-* M21
-* M24
+*2015 - Active*
+* Enrollment HbA1c completed in 2015 - Su Clincia & Active Salud y Vida patients (SYV Survey Lab)
+* M03 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M06 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M09 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M12 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M15 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M18 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M21 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M24 HbA1c completed in 2015 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
 
-*Notes:*
-* In Active, make sure to only include Active Salud y Vida patients
-* In Inactive, make sure to only include Inactive Salud y Vida patients
+*2015 - Inactive*
+* Enrollment HbA1c completed in 2015 - Su Clincia & Inactive Salud y Vida patients (SYV Survey Lab)
+* M03 HbA1c completed in 2015 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M06 HbA1c completed in 2015 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M09 HbA1c completed in 2015 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M12 HbA1c completed in 2015 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M15 HbA1c completed in 2015 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M18 HbA1c completed in 2015 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M21 HbA1c completed in 2015 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M24 HbA1c completed in 2015 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+
+*2016 - Active*
+* Enrollment HbA1c completed in 2016 - Su Clincia & Active Salud y Vida patients (SYV Survey Lab)
+* M03 HbA1c completed in 2016 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M06 HbA1c completed in 2016 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M09 HbA1c completed in 2016 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M12 HbA1c completed in 2016 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M15 HbA1c completed in 2016 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M18 HbA1c completed in 2016 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M21 HbA1c completed in 2016 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M24 HbA1c completed in 2016 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+
+*2016 - Inactive*
+* Enrollment HbA1c completed in 2016 - Su Clincia & Inactive Salud y Vida patients (SYV Survey Lab)
+* M03 HbA1c completed in 2016 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M06 HbA1c completed in 2016 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M09 HbA1c completed in 2016 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M12 HbA1c completed in 2016 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M15 HbA1c completed in 2016 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M18 HbA1c completed in 2016 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M21 HbA1c completed in 2016 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M24 HbA1c completed in 2016 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+
+*2017 - Active*
+* Enrollment HbA1c completed in 2017 - Su Clincia & Active Salud y Vida patients (SYV Survey Lab)
+* M03 HbA1c completed in 2017 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M06 HbA1c completed in 2017 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M09 HbA1c completed in 2017 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M12 HbA1c completed in 2017 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M15 HbA1c completed in 2017 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M18 HbA1c completed in 2017 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M21 HbA1c completed in 2017 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+* M24 HbA1c completed in 2017 - Su Clinica & Active Salud y Vida patients (SYV Survey Lab)
+
+*2017 - Inactive*
+* Enrollment HbA1c completed in 2017 - Su Clincia & Inactive Salud y Vida patients (SYV Survey Lab)
+* M03 HbA1c completed in 2017 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M06 HbA1c completed in 2017 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M09 HbA1c completed in 2017 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M12 HbA1c completed in 2017 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M15 HbA1c completed in 2017 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M18 HbA1c completed in 2017 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M21 HbA1c completed in 2017 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
+* M24 HbA1c completed in 2017 - Su Clinica & Inactive Salud y Vida patients (SYV Survey Lab)
 
 ## Variables available:
 
