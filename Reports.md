@@ -19,17 +19,21 @@
 *No HbA1c Last 6 Months*
 * All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (SC Lab)
 * All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (SYV Lab)
+* All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (WC Lab)
 * All Su Clinica patients with diagnosis of diabetes and no HbA1c in 6 months (All Lab)
 * All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (SC Lab)
 * All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (SYV Lab)
+* All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (WC Lab)
 * All Su Clinica patients who are part of Salud y Vida with diagnosis of diabetes and no HbA1c in 6 months (All Lab)
 
 *Last HbA1c > 9*
 * All Su Clinica patients with last HbA1c > 9 (SC Lab)
 * All Su Clinica patients with last HbA1c > 9 (SYV Lab)
+* All Su Clinica patients with last HbA1c > 9 (WC Lab)
 * All Su Clinica patients with last HbA1c > 9 (All Lab)
 * All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (SC Lab)
 * All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (SYV Lab)
+* All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (WC Lab)
 * All Su Clinica patients who are part of the Salud y Vida program with last HbA1c > 9 (All Lab)
 
 ## Su Clinica SYV Time 2 Date
